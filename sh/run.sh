@@ -1,0 +1,1 @@
+python3 /home/pi/web-apps/website-monitor/sh/run.sh
